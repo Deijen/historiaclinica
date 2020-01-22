@@ -1,1 +1,3 @@
-Nuevo proyecto
+Nuevo proyecto 
+
+*Pagina de inicio agregada.

@@ -19,6 +19,17 @@
 
 
 //]);
+/**
+ * laura es un médico
+ */
+//App\User::create([
+   // 'name' => 'Laura',
+   // 'email' => 'laura@hotmail.com',
+   // 'password' => bcrypt('12345678'),
+   // 'role' => 'médico'
+
+
+//]);
 /*
 |--------------------------------------------------------------------------
 | Web Routes

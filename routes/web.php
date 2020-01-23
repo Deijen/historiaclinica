@@ -1,5 +1,24 @@
 <?php
+/**
+ * Diego es un administrador.
+ */
+//App\User::create([
+ //'name' => 'diego',
+ //'email' => 'dipomar@hotmail.com',
+ //'password' => bcrypt('12345678'),
+ //'role' => 'Admin'
 
+ /**
+ * Andres es un paciente.
+ */
+  //App\User::create([
+ //'name' => 'andres',
+ //'email' => 'andres@hotmail.com',
+ //'password' => bcrypt('12345678'),
+ //'role' => 'paciente'
+
+
+//]);
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -37,3 +56,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

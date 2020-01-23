@@ -57,4 +57,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Route::get('/logout', 'Auth\LoginController@logout')->name('logout');
+Route::get('/logout', 'Auth\LoginController@logout')->name('logout');  //ruta para el logout
